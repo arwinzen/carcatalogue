@@ -1,0 +1,14 @@
+.login_holder {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login_holder * {
+    margin-bottom: 0.5rem;
+}
+
+a {
+    text-decoration: none;
+}

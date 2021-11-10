@@ -1,0 +1,16 @@
+.listWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1.5rem;
+    border-bottom: 2px solid aliceblue;
+}
+
+.list_imgHolder {
+    margin-right: 1.5rem;
+}
+
+.list_img {
+    width: 200px;
+    height: 200px;
+}

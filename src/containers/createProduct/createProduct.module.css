@@ -1,0 +1,9 @@
+.createForm {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    width: 20vw;
+    align-self: center ;
+}
